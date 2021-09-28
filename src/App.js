@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>MONKI</h1>
+        <h1>Alpha Vendor</h1>
 
         <a href="http://styleid.com:3000/?brand=monki">
           Login to with style id
